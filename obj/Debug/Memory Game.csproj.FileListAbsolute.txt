@@ -1,0 +1,11 @@
+C:\C# Projects\Memory Game 2\Memory Game\bin\Debug\Memory Game.exe.config
+C:\C# Projects\Memory Game 2\Memory Game\bin\Debug\Memory Game.exe
+C:\C# Projects\Memory Game 2\Memory Game\bin\Debug\Memory Game.pdb
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory Game.csprojAssemblyReference.cache
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory_Game.frmWelcome.resources
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory Game.exe
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory Game.pdb
+C:\C# Projects\Memory Game 2\Memory Game\obj\Debug\Memory_Game.Forms.FrmDashboard.resources
